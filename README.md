@@ -1,6 +1,6 @@
 # End to End Job Recruitment Automation
 
-## Won 6th out of 220+ teams at the National-Level Sudhee Hackathon CBIT. 
+### Won 6th out of 220+ teams at the National-Level Sudhee Hackathon CBIT. 
 
 An intelligent AI-powered recruitment automation platform that revolutionizes the hiring process through advanced machine learning and seamless user experience.
 
