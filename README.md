@@ -1,4 +1,4 @@
-# CyberVault_App
+# End to End Job Recruitment Automation
 
 An intelligent AI-powered recruitment automation platform that revolutionizes the hiring process through advanced machine learning and seamless user experience.
 
