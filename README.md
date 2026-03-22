@@ -1,6 +1,7 @@
 # End to End Job Recruitment Automation
 
 An intelligent AI-powered recruitment automation platform that revolutionizes the hiring process through advanced machine learning and seamless user experience.
+Won 6th out of 220+ teams at the National-Level Sudhee Hackathon CBIT. 
 
 ## 🚀 Project Overview
 
@@ -198,7 +199,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, support, or collaboration opportunities:
 - GitHub Issues: [Create an issue](https://github.com/vishnu2006/Recruitment_Automation/issues)
-- Project Repository: [CyberVault_App](https://github.com/vishnu2006/Recruitment_Automation)
+- Project Repository: [HireSense_App](https://github.com/vishnu2006/Recruitment_Automation)
 
 ---
 
