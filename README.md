@@ -4,7 +4,7 @@ An intelligent AI-powered recruitment automation platform that revolutionizes th
 
 ## 🚀 Project Overview
 
-CyberVault_App is a comprehensive recruitment solution designed to streamline the entire hiring workflow. Built with cutting-edge AI technologies, it automates candidate screening, assessment, and evaluation while providing an intuitive interface for both HR professionals and job seekers.
+HireSense is a comprehensive recruitment solution designed to streamline the entire hiring workflow. Built with cutting-edge AI technologies, it automates candidate screening, assessment, and evaluation while providing an intuitive interface for both HR professionals and job seekers.
 
 ## ✨ Key Features
 
@@ -13,6 +13,7 @@ CyberVault_App is a comprehensive recruitment solution designed to streamline th
 - **Multi-Round Assessment System**: 4-stage evaluation process (Resume → MCQ → Coding → Interview)
 - **Dynamic Question Generation**: Context-aware assessment questions based on job requirements
 - **Real-time Progress Tracking**: Live status updates for candidates and recruiters
+- **Live Interview with AI**: Applicant will be asked questions in live by AI based on profile and JD
 
 ### Advanced AI Capabilities
 - **Gemini API Integration**: Google's latest AI model for intelligent analysis
